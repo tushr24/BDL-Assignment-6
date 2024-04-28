@@ -33,4 +33,5 @@ The API can classify the digit in images (PNG/JPEG) that are uploaded by the use
 - The model performs well on task 1 images since those were the images the model was trained on.
 - Since the model was built on the MNIST dataset, which has images with white text and black backgrounds, it could not correctly identify all the task 2 images uploaded.
 - The model could also not accurately predict the images **digit-1**, **digit-4** & **digit-8** for task 2.
+- You can see all the results in the folder **images**. Inside this for each task the **predictions** folder contains the predictions.
 
