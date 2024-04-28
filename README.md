@@ -1,9 +1,9 @@
 # BDL Assignment 6
 
 # Objective
-Get to know how to use FastAPI and implement FastAPI for handwritten digit classification. 
-This project builds a FastAPI application that shows the mnist digit classification model over a RESTful API.
-Here anyone can upload images of digits handwritten or found from anywhere and the API will try to predict the digit based on the model trained.
+- Get to know how to use FastAPI and implement FastAPI for handwritten digit classification. 
+- This project builds a FastAPI application that shows the mnist digit classification model over a RESTful API.
+- Here anyone can upload images of digits handwritten or found from anywhere and the API will try to predict the digit based on the model trained.
 
 # Dataset
 - Task 1 images were downloaded from the attached hugging face [link](https://huggingface.co/datasets/mnist).
