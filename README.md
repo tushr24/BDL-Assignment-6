@@ -1,4 +1,4 @@
-Please refer: [My Project Collection](https://github.com/AswinBalamurugan/Machine_Learning_Projects/blob/main/README.md)
+# BDL Assignment 6
 
 # Objective
 Understand and implement FastAPI for handwritten digit classification. 
